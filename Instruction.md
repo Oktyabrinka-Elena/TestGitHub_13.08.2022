@@ -17,7 +17,7 @@
 
 После установки необходимо «представиться» системе контроля версий. Это нужно сделать всего один раз, и git запомнит вас. Для этого нужно ввести в терминале 2 команды:
 
-![predstavimsya systeme](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\predstavimsya systeme.PNG)
+![predstavimsya systeme](/pics/predstavimsya systeme.PNG)
 
 > *Данные не проверяются, то есть вы можете указать любую почту и тем более любое имя. Но лучше написать реальные данные или, как минимум что-то осмысленное). Эти данные будут указываться, когда вы будете делать коммиты, а указание реальных данных упростит командную работу.*
 
@@ -29,11 +29,11 @@
 
 3. С помощью `Проводника` находим созданную папку:
 
-   <img src="/pics/provodnik.PNG" alt="provodnik" style="zoom:33%;" />
+   c(/pics/provodnik.PNG)
 
    И откроем папку:
 
-<img src="/pics/otkroem papku.PNG" alt="otkroem papku" style="zoom:33%;" />
+![predstavimsya systeme](/pics/otkroem papku.PNG)
 
 
 
@@ -45,7 +45,7 @@
 
    В созданном поле репозитория кликаем правой кнопкой мышки и выбираем действие `создать новый файл` или нажимаем на иконку создания нового файла. 
 
-![create file](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\create file.PNG)
+![create file](/pics/create%20file.PNG)
 
 Теперь назовём файл и сохраним его.
 
