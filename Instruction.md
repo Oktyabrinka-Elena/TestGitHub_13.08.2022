@@ -29,11 +29,11 @@
 
 3. С помощью `Проводника` находим созданную папку:
 
-   <img src="C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\provodnik.PNG" alt="provodnik" style="zoom:33%;" />
+   <img src="/pics/provodnik.PNG" alt="provodnik" style="zoom:33%;" />
 
    И откроем папку:
 
-<img src="C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\otkroem papku.PNG" alt="otkroem papku" style="zoom:33%;" />
+<img src="/pics/otkroem papku.PNG" alt="otkroem papku" style="zoom:33%;" />
 
 
 
@@ -59,25 +59,25 @@
 
 Основные команды Gitа представлены на картинке:
 
-![команды_гит](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\команды_гит.jpeg)
+![команды_гит](/pics/команды_гит.jpeg)
 
 - Правописание команды `git init`  ![git init](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\git init.PNG)
 
 - Правописание команды `git add`
 
-![git add](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\git add.PNG)
+![git add](/pics/git add.PNG)
 
 - Правописание команды `git commit`
 
-![git commit](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\git commit.PNG)
+![git commit](/pics/git commit.PNG)
 
 - Правописание команды `git diff`. Показывает разницу между текущим файлом и сохраненным. Перед переключением версии файла используйте эту команду для ознакомления с количеством изменений.
 
-![git diff](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\git diff.PNG)
+![git diff](/pics/git diff.PNG)
 
 - Правописание команды `git log`.Журнал изменений. Перед переключением версии файла в Git используйте команду git log, чтобы увидеть количество сохранений
 
-![gitlog](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\gitlog.PNG)
+![gitlog](/pics/gitlog.PNG)
 
 - Правописание команды `git checkout`. Переключение между версиями. Для работы нужно указать не только интересующий вас коммит, но и вернуться в тот, где работаем, при помощи команды **git checkout master**
 
@@ -103,33 +103,33 @@ Git рассматривает каждый файл в рабочей копи�
 
 При создании коммитов, ветка `master` будет всегда указывать на последний коммит. Каждый раз при создании коммита указатель ветки `master` будет передвигаться на следующий коммит автоматически.
 
-![branches](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\branches.PNG)
+![branches](/pics/branches.PNG)
 
 #### Команды Git для работы с ветками
 
 - git branch
 
-![gitbranch](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\gitbranch.PNG)
+![gitbranch](/pics/gitbranch.PNG)
 
 - git branch new_branch_name
 
-![gitnewbranch](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\gitnewbranch.PNG)
+![gitnewbranch](/pics/gitnewbranch.PNG)
 
 - git branch -d branch_to_delete
 
-![gitbranchdelete](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\gitbranchdelete.PNG)
+![gitbranchdelete](/pics/gitbranchdelete.PNG)
 
 - git merge branch_name
 
-![gitmerge](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\gitmerge.PNG)
+![gitmerge](/pics/gitmerge.PNG)
 
 - git log -graph
 
-![gitlogbranch](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\gitlogbranch.PNG)
+![gitlogbranch](/pics/gitlogbranch.PNG)
 
 - git checkout branch_name
 
-![gitcheckoutbranch](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\gitcheckoutbranch.PNG)
+![gitcheckoutbranch](/pics/gitcheckoutbranch.PNG)
 
 ### Язык разметки Markdown
 
@@ -161,4 +161,4 @@ Markdown не является заменой HTML. Синтаксис Markdown 
 
 Более подробно с перечисленными функциями можно ознакомиться в подразделе «Описание синтаксиса». 
 
-![md](C:\Users\Елена Замятина\OneDrive\Рабочий стол\git_education\pics\md.PNG)
+![md](/pics/md.PNG)
